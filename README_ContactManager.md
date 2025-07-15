@@ -1,6 +1,6 @@
 Contact Manager Application
 
-The Contact Manager Application is a Java-based console program that helps users efficiently add, edit, delete, view, and search contacts. Developed as part of CodeCraft Task 6, it demonstrates core Java principles such as object-oriented programming, `ArrayList` usage, and user input handling via terminal.
+The Contact Manager Application is a Java-based console program that helps users efficiently add, edit, delete, view, and search contacts. It demonstrates core Java principles such as object-oriented programming, `ArrayList` usage, and user input handling via terminal.
 
 ---
 
